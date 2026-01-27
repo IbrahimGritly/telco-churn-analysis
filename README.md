@@ -82,7 +82,7 @@ SQL views were created to support Tableau visualization and ensure consistent bu
 
 An interactive Tableau dashboard presents insights using a top-down analytical structure:
 
-Dashboard → telco_churn_dash.png
+Dashboard → ![Customer Churn Dashboard](assets/telco_churn_dash.png)
 
 The dashboard is designed to be clear, minimal, and business-friendly, with filters for contract type, tenure group, and customer value.
 
@@ -115,8 +115,54 @@ This project demonstrates a complete analytics workflow—from raw data preparat
 
 ---
 
-## Author
+## Repo Structure 
 
-**Aaliyah M. Gritly**
+├── assets/
+│   ├── .gitkeep
+│   ├── churn_contract_pic.png
+│   ├── churn_overview_pic.ping
+│   ├── churn_reason_pic.png
+│   ├── churn_services_pic.png
+│   ├── churn_tenure_pic.png
+│   ├── churn_value_pic.png
+│   ├── revenue_risk_churn_pic.png
+│   └── telco_churn_dash.png
+├── data/
+│   ├── .gitkeep
+│   ├── Telco_customer_churn.xlsx
+│   └── churn_data_cleaned.csv
+├── python/
+│   ├── .gitkeep
+│   └── churn_data_cleaning.ipynb
+├── report/
+│   ├── .gitkeep
+│   └── Telco churn project report.pdf
+├── sql/
+│   ├── .gitkeep
+│   └── telco_customer_churn_kpis.sql
+├── tableau/
+│   ├── .gitkeep
+│   └── Telco Churn Dashboard.pdf
+└── README.md
 
-Aspiring Data Analyst | Python | SQL | Tableau
+---
+
+## Project Deliverables
+
+- **Tableau Dashboard**  
+  - Interactive version (Tableau Public):  
+    https://public.tableau.com/app/profile/ibrahim.gritly/viz/Telco-Churn-Dashboard/Dashboard1?publish=yes  
+  - Dashboard file:  
+    [Telco Churn Dashboard.pdf](tableau/Telco Churn Dashboard.pdf)
+
+- **Python Analysis & Feature Engineering**  
+  - Jupyter Notebook:  
+    [churn_data_cleaning.ipynb](python/churn_data_cleaning.ipynb)
+
+- **SQL Views & KPI Queries**  
+  - SQL script:  
+    [telco_customer_churn_kpis.sql](sql/telco_customer_churn_kpis.sql)
+
+- **Cleaned Dataset**  
+  - CSV file:  
+    [churn_data_cleaned.csv](data/churn_data_cleaned.csv)
