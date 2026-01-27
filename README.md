@@ -82,7 +82,7 @@ SQL views were created to support Tableau visualization and ensure consistent bu
 
 An interactive Tableau dashboard presents insights using a top-down analytical structure:
 
-Dashboard → Export Image
+Dashboard → telco_churn_dash.png
 
 The dashboard is designed to be clear, minimal, and business-friendly, with filters for contract type, tenure group, and customer value.
 
