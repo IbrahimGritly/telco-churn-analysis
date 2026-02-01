@@ -1,4 +1,3 @@
-# telco-churn-analysis
 # Customer Churn Analysis – End-to-End Data Analytics Project
 
 ## Overview
@@ -117,37 +116,41 @@ This project demonstrates a complete analytics workflow—from raw data preparat
 
 ## Repo Structure 
 
+```
+Healthcare-No-Shows-Analysis/
+│
 ├── assets/
-│   ├── .gitkeep
 │   ├── churn_contract_pic.png
-│   ├── churn_overview_pic.ping
+│   ├── churn_overview_pic.png
 │   ├── churn_reason_pic.png
 │   ├── churn_services_pic.png
 │   ├── churn_tenure_pic.png
 │   ├── churn_value_pic.png
 │   ├── revenue_risk_churn_pic.png
 │   └── telco_churn_dash.png
+│
 ├── data/
-│   ├── .gitkeep
 │   ├── Telco_customer_churn.xlsx
 │   └── churn_data_cleaned.csv
+│
 ├── python/
-│   ├── .gitkeep
 │   └── churn_data_cleaning.ipynb
+│
 ├── report/
-│   ├── .gitkeep
 │   └── Telco churn project report.pdf
+│
 ├── sql/
-│   ├── .gitkeep
 │   └── telco_customer_churn_kpis.sql
+│
 ├── tableau/
-│   ├── .gitkeep
-│   └── Telco Churn Dashboard.pdf
+│   └── Telco-Churn-Dashboard.twbx
+│
 └── README.md
+```
 
 ---
 
-## Project Deliverables
+## Deliverables
 
 - **Tableau Dashboard**  
   - Interactive version (Tableau Public):  
@@ -166,3 +169,10 @@ This project demonstrates a complete analytics workflow—from raw data preparat
 - **Cleaned Dataset**  
   - CSV file:  
     [churn_data_cleaned.csv](data/churn_data_cleaned.csv)
+
+---
+
+## Author
+
+**Ibrahim M. Hassan**
+Data Analytics Portfolio Project
