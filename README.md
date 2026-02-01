@@ -143,6 +143,7 @@ Healthcare-No-Shows-Analysis/
 │   └── telco_customer_churn_kpis.sql
 │
 ├── tableau/
+│   ├── Telco Churn Dashboard.pdf
 │   └── Telco-Churn-Dashboard.twbx
 │
 └── README.md
