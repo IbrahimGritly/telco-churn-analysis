@@ -1,4 +1,4 @@
-# Customer Churn Analysis – End-to-End Data Analytics Project
+# Customer Churn Prediction & Retention Analysis – End-to-End Analytics & Machine Learning Project
 
 ## Overview
 
@@ -36,7 +36,7 @@ The dataset contains customer-level data from a telecommunications company. Each
 
 ## Tools & Technologies
 
-* **Python (Pandas, NumPy)** – Data cleaning and feature engineering
+* **Python (Pandas, NumPy, Scikit-learn)** – Data cleaning, feature engineering, and modeling
 * **MySQL** – Data storage, KPI calculations, and SQL views
 * **Tableau** – Interactive dashboard and data visualization
 * **GitHub** – Version control and documentation
@@ -110,7 +110,7 @@ The dashboard is designed to be clear, minimal, and business-friendly, with filt
 
 ## Project Outcome
 
-This project demonstrates a complete analytics workflow—from raw data preparation to business recommendations—using tools commonly required in data analytics roles. It reflects real-world challenges such as data cleaning decisions, SQL constraints, KPI design, and dashboard storytelling.
+This project demonstrates a complete analytics and introductory machine learning workflow—from raw data preparation to business recommendations—using tools commonly required in data analytics roles. It reflects real-world challenges such as data cleaning decisions, SQL constraints, KPI design, and dashboard storytelling.
 
 ---
 
