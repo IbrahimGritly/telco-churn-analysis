@@ -179,7 +179,7 @@ Customer-Churn-Prediction/
 │   └── Telco Churn ML.ipynb
 │
 ├── report/
-│   └── Telco churn project report.pdf
+│   └── Telco churn project report (ML).pdf
 │
 ├── sql/
 │   └── telco_customer_churn_kpis.sql
